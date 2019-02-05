@@ -1,6 +1,9 @@
 # Luke's build of st - the simple (suckless) terminal
 
+
 The [suckless terminal (st)](https://st.suckless.org/) with some additional features:
+
+uploaded, compliled, placed in production 2/3/19
 
 + Compatibility with `Xresources` and `pywal` for dynamic colors.
 + Default [gruvbox](https://github.com/morhetz/gruvbox) colors otherwise.
